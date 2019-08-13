@@ -1,6 +1,97 @@
 # MyARTS
 
 [极客时间《左耳听风》发起的ARTS挑战怎么参加？ - 刘腾辉的回答 - 知乎](https://www.zhihu.com/question/301150832/answer/638452395)
+
+___
+**第十九周：You are going to the top of this moutian. Broken legs and all.**
+**—— "The Truman Show"**
+
+> 导读          
+>
+> A算法：删除链表的倒数第N个节点         
+>
+> R点评：谷歌 JavaScript 代码风格规范的 13 个值得注意的要点         
+>
+> T技巧：Nedb 在 JSON 对象数组的批量 $pull 上的问题      
+>
+> S分享：[极客专栏] Git协同工作流，你该怎么选？
+[ARTS 第十九周（2019.8.5~2019.8.11） · Issue #19 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/19)
+
+___
+**第十八周：The unexamined life is not worth living.**
+**—— Socrates**
+
+> 导读         
+>
+> A算法：最长的公共前缀        
+>
+> R点评：Bytenode 实现 JavaScript 代码的保护         
+>
+> T技巧：使用 postman 的 collection scoped script 功能实现自动更新 token      
+>
+> S分享：[知乎专栏]理解 V8 的字节码
+[ARTS 第十八周（2019.7.29~2019.8.04） · Issue #18 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/18)
+
+___
+**第十七周：No act of kindness, no matter how small, is ever wasted.**
+**——"Aesop's Fables"**
+
+> 导读        
+>
+> A算法：反转字符串       
+>
+> R点评：迁移到 HTTP/2 的理由        
+>
+> T技巧：Linux find 按文件最后访问/状态修改/内容修改时间查找文件     
+>
+> S分享：[知乎问答]HTTP/2.0 相比1.0有哪些重大改进？
+[ARTS 第十七周（2019.7.22~2019.7.28） · Issue #17 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/17)
+
+___
+**第十六周：You got to put the past behind you before you can move on.**
+**——"Forrest Gump"**
+
+> 导读       
+>
+> A算法：实现strStr()      
+>
+> R点评：Yarn PnP 助你摆脱 node_modules       
+>
+> T技巧：解决 electron 安装卡在 node install.js 等两个    
+>
+> S分享：[他]理解OAuth 2.0
+[ARTS 第十六周（2019.7.15~2019.7.21） · Issue #16 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/16)
+
+___
+**第十五周：The world is full of lonely people waiting to make the first move.**
+**——"Green Book"**
+
+>导读      
+>
+> A算法：字符串转换整数 (atoi)     
+>
+> R点评：分布式系统构建指南      
+>
+> T技巧：JavaScript 实用功能函数库   
+>
+> S分享：一次性理清 NTP 服务的搭建与使用
+[ARTS 第十五周（2019.7.8~2019.7.14） · Issue #15 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/15)
+
+___
+**第十四周：If you shed tears when you miss the sun, you also miss the stars.**
+**——"Stray Birds"**
+
+> 导读    
+>
+> A算法：验证回文字符串    
+>
+> R点评：Nodejs设计模式之依赖注入     
+>
+> T技巧：JavaScript高效求两数相除所得商    
+>
+> S分享：一次性理清 Linux ssh 命令端口转发用法
+
+[ARTS 第十五周（2019.7.1~2019.7.7） · Issue #14 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/14)
 ___
 **第十三周：Be yourself, everyone else is already taken.**
 **——"The Fairy Tales of Oscar Wilde"**
