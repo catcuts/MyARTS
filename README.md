@@ -3,6 +3,52 @@
 [极客时间《左耳听风》发起的ARTS挑战怎么参加？ - 刘腾辉的回答 - 知乎](https://www.zhihu.com/question/301150832/answer/638452395)
 
 ___
+**第二十二周：**
+**It is not our abilities that show what we truly are, it is our choices.**
+**—— "Harry Potter and the Chamber of Secrets"**
+**选择而非能力塑造了我们。**
+**—— 《哈利波特与密室》**
+
+> 导读             
+> A算法：回文链表           
+> 
+> R点评：不要为了多线程而多线程           
+> 
+> T技巧：使用 npm 脚本来构建项目         
+> 
+> S分享：[极客专栏] 23 | 分布式系统的技术栈
+
+___
+**第二十一周：**
+**You can't do it —— that's the biggest lie on earth.** 
+**—— "Flying Colors"**
+**这世上最大的谎言就是你不行。**
+**—— 《垫底辣妹》**
+
+> 导读            
+> A算法：合并两个有序链表           
+> 
+> R点评：基于事件模式构建的渐进式系统架构           
+> 
+> T技巧：在并发处理中为异步操作加锁        
+> 
+> S分享：[极客专栏] 22 | 从亚马逊的实践，谈分布式系统的难点
+
+___
+**第二十周：And gladly would learn, and gladly teach.**
+**—— Geoffrey Chaucer**
+
+> 导读           
+> 
+> A算法：反转链表          
+> 
+> R点评：软件开发遇到瓶颈，问问如下三个问题          
+> 
+> T技巧：一种支持多语言的错误基类实现       
+> 
+> S分享：[极客专栏] 分布式系统架构的冰与火
+
+___
 **第十九周：You are going to the top of this moutian. Broken legs and all.**
 **—— "The Truman Show"**
 
