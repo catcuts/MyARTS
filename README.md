@@ -3,6 +3,111 @@
 [极客时间《左耳听风》发起的ARTS挑战怎么参加？ - 刘腾辉的回答 - 知乎](https://www.zhihu.com/question/301150832/answer/638452395)
 
 ___
+**第二十八周：**  
+**Progress is impossible without change, and those who cannot change their minds cannot change anything.**  
+**—— George Bernard Shaw**  
+
+> 导读
+>
+> A算法：对称二叉树
+>
+> R点评：软件设计模式之“命令模式”
+>
+> T技巧：尾调用优化
+>
+> S分享：[极客专栏] 96 | 高效学习：源头、原理和知识地图
+
+[ARTS 第二十八周（2019.10.7~2019.10.13） · Issue #28 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/28)
+​
+___
+**第二十七周：**  
+**If you want something you've never had, you must be willing to do something you've never done.**  
+**—— Thomas Jefferson**  
+**欲得所未得，必先做所未做。**  
+**—— 托马斯·杰斐逊**  
+
+> 导读
+>
+> A算法：报数
+>
+> R点评：JavaScript 变量引用“死区”
+>
+> T技巧：使用 Nodejs Dgram 模块接收组播消息的注意事项
+>
+> S分享：[极客专栏] 95 | 高效学习：端正学习态度
+
+[ARTS 第二十七周（2019.9.30~2019.10.6） · Issue #27 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/27)
+​
+___
+**第二十六周：**  
+**It's better to have fought and lost, than never to have fought at all.**  
+**—— Anonimity**  
+
+> 导读
+>
+> A算法：合并两个有序数组
+>
+> R点评：对象解构最佳实践
+>
+> T技巧：使用 `runSaga` 连接 Redux Sagas 到 Vuex
+>
+> S分享：[极客专栏] 81 | 程序员的练级攻略：分布式架构入门
+
+[ARTS 第二十六周（2019.9.23~2019.9.29） · Issue #26 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/26)
+​
+___
+**第二十五周：**  
+**Every new day is another chance to change your life.**  
+**—— Anonimity**  
+
+> 导读
+>
+> A算法：验证二叉搜索树
+>
+> R点评：Node.js 使用 Elasticsearch 入门（下：实践篇）
+>
+> T技巧：关于 Symbol 的几个用途
+>
+> S分享：[极客专栏] 26 | 分布式系统的关键技术：流量调度
+
+[ARTS 第二十五周（2019.9.16~2019.9.22） · Issue #25 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/25)
+​
+___
+**第二十四周：**  
+**Life consists not in holding good cards but in playing those you hold well.**  
+**—— Josh Billings**  
+
+> 导读
+>
+> A算法：二叉树的最大深度
+>
+> R点评：Node.js 使用 Elasticsearch 入门（上）
+>
+> T技巧：中止数组的 map、forEach、every、some 过程
+>
+> S分享：[极客专栏] 25 | 分布式系统的关键技术：服务调度
+
+[ARTS 第二十四周（2019.9.9~2019.9.15） · Issue #24 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/24)
+​
+___
+**第二十三周：**  
+**A man can be destoryed but not defeated.**  
+**—— "The Old Man and the Sea"**  
+
+>
+> 导读
+>
+> A算法：环形链表
+>
+> R点评：巧用 setImmediate 平衡阻塞与性能
+>
+> T技巧：条件式 JSON Schema
+> 
+> S分享：[极客专栏] 24 | 分布式系统的关键技术：全栈监控
+
+[ARTS 第二十四周（2019.9.2~2019.9.8） · Issue #23 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/23)
+
+___
 **第二十二周：**  
 **It is not our abilities that show what we truly are, it is our choices.**  
 **—— "Harry Potter and the Chamber of Secrets"**  
