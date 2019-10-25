@@ -3,6 +3,23 @@
 [极客时间《左耳听风》发起的ARTS挑战怎么参加？ - 刘腾辉的回答 - 知乎](https://www.zhihu.com/question/301150832/answer/638452395)
 
 ___
+**第二十九周：**  
+**Sometimes the right path is not the easiest one.**  
+**—— Anonym**
+
+> 导读 
+> 
+> A算法：二叉树的层次遍历
+> 
+> R点评：服务开发模式之“断路器模式” 
+> 
+> T技巧：字符串数组排序 
+> 
+> S分享：[极客专栏] 97 | 高效学习：深度、归纳和坚持实践
+
+[ARTS 第二十九周（2019.10.14~2019.10.20） · Issue #29 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/29)
+
+___
 **第二十八周：**  
 **Progress is impossible without change, and those who cannot change their minds cannot change anything.**  
 **—— George Bernard Shaw**  
@@ -18,7 +35,7 @@ ___
 > S分享：[极客专栏] 96 | 高效学习：源头、原理和知识地图
 
 [ARTS 第二十八周（2019.10.7~2019.10.13） · Issue #28 · catcuts/MyARTS](https://github.com/catcuts/MyARTS/issues/28)
-​
+
 ___
 **第二十七周：**  
 **If you want something you've never had, you must be willing to do something you've never done.**  
